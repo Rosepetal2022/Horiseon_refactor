@@ -1,31 +1,18 @@
 # Horiseon Refactor
 
-```
-Taking a look at this websites code. Condensing the HTML and CSS to be more effecient.
-```
-
-## User Story
+## Purpose
 
 ```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our site is optimized for search engines
+Condensing the HTML and CSS to be more effecient. The goal is to change anything that seems reptitive or unnecessary. Fix the HTML elements to be more descriptive. Write comments to easily understand the code, and come up with a descriptive title. 
 ```
 
-## Acceptance Criteria
+## Website
 
 ```
-GIVEN a webpage that meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the icon and image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN I find that they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
-```
+https://rosepetal2022.github.io/Horiseon_refactor/
+
+
+
+
 
 
